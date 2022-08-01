@@ -87,8 +87,6 @@ Descrption of the balanced accuracy scores, the precision and recall scores of a
 5.Bal. Random Forest Classif: Balanced Accuracy Score: 78.85% / Avg/Total Precision:0.99 / Avg/Total Recall:0.87
 **6.E.E. AdaBoost Classif.:Balanced Accuracy Score: 93.16% / Avg/Total Precision:0.99 / Avg/Total Recall:0.94
 
-![EEC](/Format%20Date.png)
-
 ### Recommendation on the model to use:
 
 I would recomend the usage of the Ensamble Learner model Easy Ensemble AdaBoost Classifier. Te reason is beacause it's Balanced Accuracy Score is over 90, letting us know that it has a good chance to have good predictions, in the other hand Recall is the highest across models and very near to 1. Also i would recomend to make credit risk evaluation to individuals using more than one model, for example using EE Adaboost and Baalanced Random Fores (wich also has high rating across the models we used) and if both models point in the same direction then move forward. Pros: Being extra carefull on desition making. Cons: Maybe lose some desitions for being extra carefull.
