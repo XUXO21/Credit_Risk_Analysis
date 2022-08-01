@@ -26,7 +26,7 @@ Descrption of the balanced accuracy scores, the precision and recall scores of a
 - Avg/Total Precision:0.99
 - Avg/Total Recall:0.64
 
-![NRO](/Format%20Date.png)
+![NRO](/Images/1Naive_Random_Oversampling.png)
 
 #### 2.SMOTE Oversampling
 
@@ -34,7 +34,7 @@ Descrption of the balanced accuracy scores, the precision and recall scores of a
 - Avg/Total Precision:0.99
 - Avg/Total Recall:0.68
 
-![SMOTE](/Format%20Date.png)
+![SMOTE](/Images/2SMOTE_Oversampling.png)
 
 ### UNDERSAMPLING
 
@@ -44,7 +44,7 @@ Descrption of the balanced accuracy scores, the precision and recall scores of a
 - Avg/Total Precision:0.99
 - Avg/Total Recall:0.40
 
-![CCR](/Format%20Date.png)
+![CCR](/Images/3Undersampling.png)
 
 ### Combination (Over and Under) Sampling
 
@@ -54,7 +54,7 @@ Descrption of the balanced accuracy scores, the precision and recall scores of a
 - Avg/Total Precision:0.99
 - Avg/Total Recall:0.58
 
-![SMO](/Format%20Date.png)
+![SMO](/Images/4Combination_Sampling.png)
 
 ### Ensemble Learners
 
@@ -64,7 +64,7 @@ Descrption of the balanced accuracy scores, the precision and recall scores of a
 - Avg/Total Precision:0.99
 - Avg/Total Recall:0.87
 
-![nro](/Format%20Date.png)
+![nro](/Images/5Balanced_Random%20Forest_Classifier.png)
 
 ### 6.Easy Ensemble AdaBoost Classifier
 
@@ -72,7 +72,7 @@ Descrption of the balanced accuracy scores, the precision and recall scores of a
 - Avg/Total Precision:0.99
 - Avg/Total Recall:0.94
 
-![EEC](/Format%20Date.png)
+![EEC](/Images/6Easy_Ensemble%20AdaBoost_Classifier.png)
 
 ---
 
